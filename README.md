@@ -5,7 +5,6 @@ Based on madeye's github project VpnProxy,
 [VpnProxy](https://github.com/AoEiuV020/VpnProxy)
 For learning purposes only, not practical,
 Just simply delete the useless things in the original project, leaving the http proxy,
-The first start will ask for an address, Support http proxy authentication, for example, http://user1:pass1@192.168.2.10:2082
 
 ## Getting Started
 
